@@ -12,10 +12,10 @@ Error Logger Client is a lightweight npm package designed to capture errors from
 
 Install the package via npm:
 
-```bash
+
 ![image](https://github.com/vaibhav211002/error-logger/assets/120389581/e1a105d2-5ecc-4cc0-8aab-f39629e6eb45)
 
-Usage
+### Usage
 
 To : use Error Logger Client in your project, follow these steps:
 
