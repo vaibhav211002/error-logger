@@ -21,7 +21,8 @@ To : use Error Logger Client in your project, follow these steps:
 
 1. Import the package into your JavaScript file:
 
-![image](https://github.com/vaibhav211002/error-logger/assets/120389581/ad727129-542e-4d2b-8e03-04692cad6b43)
+![image](https://github.com/vaibhav211002/error-logger/assets/120389581/3f908685-5288-4bd3-8691-2ba6e709dc7b)
+
 
 2. Example I am using In React .
    
