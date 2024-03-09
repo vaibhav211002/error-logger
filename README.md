@@ -34,8 +34,6 @@ This will start Post Fetching your data to Backend Server.
 
 Error Logger Client is designed to work seamlessly with React applications, but it can also be used with other JavaScript frameworks and libraries.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Feedback and Contributions
 Feedback, bug reports, and contributions are welcome! Feel free to open an issue or submit a pull request on GitHub.
