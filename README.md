@@ -2,13 +2,13 @@
 
 Error Logger Client is a lightweight npm package designed to capture errors from the browser and display them on the backend server. It simplifies the process of error tracking and debugging, especially for small screen users, by providing a seamless way to view errors directly from the server.
 
-## Features
+### Features
 
 - Captures errors from the browser and sends them to the backend server.
 - Provides an easy-to-use interface for error tracking and debugging.
 - Works efficiently with React applications.
 
-## Installation
+### Installation
 
 Install the package via npm:
 
@@ -32,4 +32,10 @@ This will start Post Fetching your data to Backend Server.
 ### Compatibility
 
 Error Logger Client is designed to work seamlessly with React applications, but it can also be used with other JavaScript frameworks and libraries.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Feedback and Contributions
+Feedback, bug reports, and contributions are welcome! Feel free to open an issue or submit a pull request on GitHub.
 
