@@ -4,9 +4,6 @@ const sendErrorToServer = (errorMessage) => {
     console.log(errorMessage);
     fetch('http://localhost:3000/server', {
       method: 'POST',
-      headers: {
-        'Content-Type': 'application/json' 
-      },
       body: JSON.stringify({ error: errorMessage })
     })
     .then(response => {
@@ -55,6 +52,6 @@ const sendErrorToServer = (errorMessage) => {
       }
     };
   };
-  
+
   module.exports =  handleError ;
   
